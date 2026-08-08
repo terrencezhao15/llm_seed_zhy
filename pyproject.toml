@@ -1,0 +1,13 @@
+[project]
+name = "llm-seed-zhy"
+version = "0.1.0"
+description = "project for learning basic knowledge of LLM by Hengyi Zhao"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "ipywidgets>=8.1.8",
+    "loguru>=0.7.3",
+    "torch>=2.13.0",
+    "transformers>=5.14.1",
+]
